@@ -31,12 +31,12 @@ This project was developed to explore the real-world capabilities of Deep Learni
 
 Rather than creating only a simple image classifier, the objective was to build a complete end-to-end AI pipeline involving:
 
-✨ Dataset Engineering
-✨ Deep Learning Model Training
-✨ Transfer Learning Optimization
-✨ Performance Evaluation
-✨ Interactive Prediction System
-✨ Cloud Deployment
+✨ Dataset Engineering   
+✨ Deep Learning Model Training   
+✨ Transfer Learning Optimization   
+✨ Performance Evaluation   
+✨ Interactive Prediction System   
+✨ Cloud Deployment   
 
 The final result is an AI-powered person identification system capable of recognizing multiple individuals from uploaded images through an interactive web interface.
 
@@ -125,7 +125,7 @@ Hugging Face Deployment
 
 ## 📂 Dataset Engineering
 
-The dataset used in this project was synthetically captured and organized into multiple person classes for supervised learning.
+The dataset used in this project was synthetically captured and organized into multiple person classes (12 classes) for learning.
 
 ### ⚙️ Data Preprocessing Included
 
