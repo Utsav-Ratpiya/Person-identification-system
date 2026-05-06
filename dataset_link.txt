@@ -1,4 +1,1 @@
 https://www.kaggle.com/datasets/utsavratapiya/person-identification-dataset
-
-
-Dataset is publicly available on Kaggle !
